@@ -1,0 +1,9 @@
+{
+  "standard": {
+    "request": "Create a project plan for launching an employee wellness program for 500 staff within 12 weeks. Include scope, phases, owners, risks, success metrics, and next steps for executive leadership."
+  },
+  "complex": {
+    "request": "Prepare a technical design and rollout plan for replacing our manual customer onboarding with an AI-assisted workflow in 8 weeks, but we have no confirmed budget, incomplete compliance requirements, and leadership wants both zero operational disruption and immediate full rollout. Decide a reasonable execution plan, state assumptions, identify conflicts, and include governance, risks, decision owners, and measurable acceptance criteria."
+  }
+}
+
